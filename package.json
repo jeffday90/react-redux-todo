@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "Simple React-Redux app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffday90/react-redux-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffday90/react-redux-todo/issues"
+  },
+  "homepage": "https://github.com/jeffday90/react-redux-todo#readme",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "react-redux": "^7.1.0"
+  }
+}
